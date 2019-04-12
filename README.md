@@ -1,1 +1,2 @@
-# SabermetricsFinalProject
+# Samuel SabermetricsFinalProject
+
