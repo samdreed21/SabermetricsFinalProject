@@ -1,4 +1,4 @@
-# Samuel SabermetricsFinalProject
+# Samuel Reed Sabermetrics Final Project
 
 How To Run:      
   Download and unpack the most final_pitching_data.csv into the working directory you will be running the notebook in        
