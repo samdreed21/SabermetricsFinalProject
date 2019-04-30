@@ -18,6 +18,7 @@ Situational Pitching Behavior (SPB) is a new statistical tool that offers users 
 ## Repository Contents ##
 	- SPB_Explanation.docx: this is the 2-3 page explanation of my project, also found in read me
 	- SPB_Final_Video.mp4: MP4 File of final video submission
+	- Sabermetrics_Final_Presentation.ppx: Powerpoint presentation used in final video
 	- Samuel_Reed_FP_Part1.dox: Short writeup of idea for part 1
 	- Samuel_Reed_Situational_Pitching_Behavior.ipynb: Jupyter notebook with entire codebase
 	- final_pitching_data.zip: zip of all of the data used in the Jupyter notebook.
