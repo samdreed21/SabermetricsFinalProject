@@ -1,8 +1,6 @@
 # Samuel Reed Sabermetrics Final Project
-
-	Samuel Reed               
-	Final Project Explanation                  
-	Situational Pitching Behavior – Explanation             
+                
+## Situational Pitching Behavior – Explanation    ##         
 <p>
 Situational Pitching Behavior (SPB) is a new statistical tool that offers users the ability to analyze a pitcher’s performance in a variety of situations. This statistic allows a user to enter the name of a pitcher and the current situation that pitcher is in (in regards to how many runners are on base). The application will then analyze how that pitcher has performed in that situation in the past and will present the user with the data generated. This data includes the frequency of different types of pitches that pitcher throws in the specific situation, the pitcher’s rate of balls/strikes/hits in that situation, and the location over the plate that the pitcher is most likely to throw the ball in that specific situation.    
 	</p>
@@ -17,10 +15,15 @@ Situational Pitching Behavior (SPB) is a new statistical tool that offers users 
 	The evaluation of how pitchers perform in high pressure situations also provides very useful insight to batters in the way mentioned above. Batters can use this data to have a confident understanding of how their plate appearance will go while facing a certain pitcher in a specific situation. 
 	</p>
 
+## Repository Contents ##
+	- SPB_Explanation.docx: this is the 2-3 page explanation of my project, also found in read me
+	- SPB_Final_Video.mp4: MP4 File of final video submission
+	- Samuel_Reed_FP_Part1.dox: Short writeup of idea for part 1
+	- Samuel_Reed_Situational_Pitching_Behavior.ipynb: Jupyter notebook with entire codebase
+	- final_pitching_data.zip: zip of all of the data used in the Jupyter notebook.
 
 
-
-
-How To Run:      
-  Download and unpack the most final_pitching_data.csv into the working directory you will be running the notebook in        
-  Run the latest version of Samuel_Reed_Situational_Pitching_Behavior.ipynb
+## How To Run ##    
+  1) Download and unpack the most final_pitching_data.csv into the working directory
+  2) Run the latest version of Samuel_Reed_Situational_Pitching_Behavior.ipynb (Do not run the statcast query if you unpacked the zip). Scroll down to see the driver code to run the main project. All cells must be compiled, but running the statcast query cell will take a very long time.
+  
