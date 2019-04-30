@@ -27,3 +27,6 @@ Situational Pitching Behavior (SPB) is a new statistical tool that offers users 
   1) Download and unpack the most final_pitching_data.csv into the working directory
   2) Run the latest version of Samuel_Reed_Situational_Pitching_Behavior.ipynb (Do not run the statcast query if you unpacked the zip). Scroll down to see the driver code to run the main project. All cells must be compiled, but running the statcast query cell will take a very long time.
   
+
+## Youtube Link For Video Submission #
+ https://www.youtube.com/watch?v=qVnlKPYElo4&feature=youtu.be
