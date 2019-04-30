@@ -1,7 +1,7 @@
 # Samuel Reed Sabermetrics Final Project
 
-			Samuel Reed               
-			Final Project Explanation                  
+	Samuel Reed               
+	Final Project Explanation                  
 	Situational Pitching Behavior – Explanation             
 	
 Situational Pitching Behavior (SPB) is a new statistical tool that offers users the ability to analyze a pitcher’s performance in a variety of situations. This statistic allows a user to enter the name of a pitcher and the current situation that pitcher is in (in regards to how many runners are on base). The application will then analyze how that pitcher has performed in that situation in the past and will present the user with the data generated. This data includes the frequency of different types of pitches that pitcher throws in the specific situation, the pitcher’s rate of balls/strikes/hits in that situation, and the location over the plate that the pitcher is most likely to throw the ball in that specific situation. 
